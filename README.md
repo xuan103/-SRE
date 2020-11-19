@@ -2,7 +2,8 @@
 
 ## SSH 到某台機器的某帳號
 
-- 
+- 下載遠端工具（ssh）
+
 > sudo apt install openssh.server
 
 > ssh hostname@X.X.X.X -p 22
